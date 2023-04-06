@@ -2,4 +2,4 @@
 중앙대학교 오픈소스SW 파이썬 프로그래밍 03분
 
 ## 2023-04-04
-Homework#2, simple calculator 구현
+Homework #2, simple calculator 구현
